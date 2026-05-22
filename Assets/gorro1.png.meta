@@ -1,0 +1,2509 @@
+fileFormatVersion: 2
+guid: 9ad8f00f8c9bf2444b0af3ae14588211
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2168953146967646416
+    second: gorro1_0
+  - first:
+      213: -7488071018672641715
+    second: gorro1_1
+  - first:
+      213: -144764938312998941
+    second: gorro1_2
+  - first:
+      213: -5509195128598032833
+    second: gorro1_3
+  - first:
+      213: 2058001848527112084
+    second: gorro1_4
+  - first:
+      213: 6685671009715786311
+    second: gorro1_5
+  - first:
+      213: -1584544920600258833
+    second: gorro1_6
+  - first:
+      213: 2414783400670879782
+    second: gorro1_7
+  - first:
+      213: 2795072523594483641
+    second: gorro1_8
+  - first:
+      213: 3723678162507655052
+    second: gorro1_9
+  - first:
+      213: -158177127152082936
+    second: gorro1_10
+  - first:
+      213: 5016098621872932075
+    second: gorro1_11
+  - first:
+      213: -945524832950599665
+    second: gorro1_12
+  - first:
+      213: -866059596983587546
+    second: gorro1_13
+  - first:
+      213: -1720996673442106196
+    second: gorro1_14
+  - first:
+      213: 1497621234848684552
+    second: gorro1_15
+  - first:
+      213: 1839112728926002148
+    second: gorro1_16
+  - first:
+      213: -8650359122887449541
+    second: gorro1_17
+  - first:
+      213: -1002090761488972857
+    second: gorro1_18
+  - first:
+      213: 6396892425189917849
+    second: gorro1_19
+  - first:
+      213: 8922822686254194947
+    second: gorro1_20
+  - first:
+      213: -5749452825346385996
+    second: gorro1_21
+  - first:
+      213: -8822524312450083993
+    second: gorro1_22
+  - first:
+      213: -1610109586664152874
+    second: gorro1_23
+  - first:
+      213: 4142766143415491170
+    second: gorro1_24
+  - first:
+      213: 7543040564454727921
+    second: gorro1_25
+  - first:
+      213: 3435614359708122725
+    second: gorro1_26
+  - first:
+      213: 8476369830875524922
+    second: gorro1_27
+  - first:
+      213: -1756117442169639523
+    second: gorro1_28
+  - first:
+      213: -235203379341788202
+    second: gorro1_29
+  - first:
+      213: -5675019828324398823
+    second: gorro1_30
+  - first:
+      213: 8784055784628517743
+    second: gorro1_31
+  - first:
+      213: -498730577039899950
+    second: gorro1_32
+  - first:
+      213: -5163876654140240354
+    second: gorro1_33
+  - first:
+      213: -1301502978811738380
+    second: gorro1_34
+  - first:
+      213: -2038913748702774738
+    second: gorro1_35
+  - first:
+      213: 3112725552813539682
+    second: gorro1_36
+  - first:
+      213: -3284401587318628269
+    second: gorro1_37
+  - first:
+      213: -8000858076637495831
+    second: gorro1_38
+  - first:
+      213: -5481135207840546552
+    second: gorro1_39
+  - first:
+      213: 300411480902232095
+    second: gorro1_40
+  - first:
+      213: -8302611060144155324
+    second: gorro1_41
+  - first:
+      213: -2316482158126673186
+    second: gorro1_42
+  - first:
+      213: -8733051908194071641
+    second: gorro1_43
+  - first:
+      213: -9007095004407323464
+    second: gorro1_44
+  - first:
+      213: 6362945398508325004
+    second: gorro1_45
+  - first:
+      213: 2358728423862339247
+    second: gorro1_46
+  - first:
+      213: 5827455210057400327
+    second: gorro1_47
+  - first:
+      213: -629103202638064451
+    second: gorro1_48
+  - first:
+      213: -1573458652810750318
+    second: gorro1_49
+  - first:
+      213: 5750334547239102890
+    second: gorro1_50
+  - first:
+      213: -3498032368362693185
+    second: gorro1_51
+  - first:
+      213: 3961523467584534763
+    second: gorro1_52
+  - first:
+      213: 3874282424811218981
+    second: gorro1_53
+  - first:
+      213: 2138359761785651587
+    second: gorro1_54
+  - first:
+      213: 3007238158036342949
+    second: gorro1_55
+  - first:
+      213: 5739286034408168161
+    second: gorro1_56
+  - first:
+      213: 8925232972190510166
+    second: gorro1_57
+  - first:
+      213: 2641038142771678975
+    second: gorro1_58
+  - first:
+      213: 8915060805370874030
+    second: gorro1_59
+  - first:
+      213: 1827965792794238248
+    second: gorro1_60
+  - first:
+      213: -2217326646962485189
+    second: gorro1_61
+  - first:
+      213: 8583824735694683643
+    second: gorro1_62
+  - first:
+      213: 8229565031488511299
+    second: gorro1_63
+  - first:
+      213: 2381232278207766328
+    second: gorro1_64
+  - first:
+      213: 5258181552808814699
+    second: gorro1_65
+  - first:
+      213: 7692252674067154538
+    second: gorro1_66
+  - first:
+      213: 6299192194437999402
+    second: gorro1_67
+  - first:
+      213: -377116217892332543
+    second: gorro1_68
+  - first:
+      213: 3307071474118367321
+    second: gorro1_69
+  - first:
+      213: -8105685876858845407
+    second: gorro1_70
+  - first:
+      213: 111666396930523502
+    second: gorro1_71
+  - first:
+      213: -563096591410847655
+    second: gorro1_72
+  - first:
+      213: -2588924673983147338
+    second: gorro1_73
+  - first:
+      213: 7965174127332994989
+    second: gorro1_74
+  - first:
+      213: 5922682424780787651
+    second: gorro1_75
+  - first:
+      213: 6325211258829424421
+    second: gorro1_76
+  - first:
+      213: 1943988330117433248
+    second: gorro1_77
+  - first:
+      213: 8515546789675621095
+    second: gorro1_78
+  - first:
+      213: -5204265926714999727
+    second: gorro1_79
+  - first:
+      213: 1529031159029767200
+    second: gorro1_80
+  - first:
+      213: -712524653933488881
+    second: gorro1_81
+  - first:
+      213: -7598470189613101078
+    second: gorro1_82
+  - first:
+      213: 7091299929568819628
+    second: gorro1_83
+  - first:
+      213: 1038783075520679048
+    second: gorro1_84
+  - first:
+      213: 1325205375949554982
+    second: gorro1_85
+  - first:
+      213: 1684488663810799954
+    second: gorro1_86
+  - first:
+      213: -4478725214648392768
+    second: gorro1_87
+  - first:
+      213: -1350559557001259727
+    second: gorro1_88
+  - first:
+      213: -3442028251679190957
+    second: gorro1_89
+  - first:
+      213: -7930613995515216414
+    second: gorro1_90
+  - first:
+      213: -2928140550125109263
+    second: gorro1_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gorro1_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 811
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0e873456ba91e10800000000000000
+      internalID: 2168953146967646416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 811
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49ae1ff417051890800000000000000
+      internalID: -7488071018672641715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 811
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef1ceb3e01bdfdf0800000000000000
+      internalID: -144764938312998941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 811
+        width: 76
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e0a9138386b83b0800000000000000
+      internalID: -5509195128598032833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_4
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 811
+        width: 68
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4974e8807cd7f8c10800000000000000
+      internalID: 2058001848527112084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_5
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 811
+        width: 64
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7429c337c5648cc50800000000000000
+      internalID: 6685671009715786311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 811
+        width: 63
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6d8fc3ac0920ae0800000000000000
+      internalID: -1584544920600258833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 811
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6206f7675b8038120800000000000000
+      internalID: 2414783400670879782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_8
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 811
+        width: 69
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7cd4ab6a71ac620800000000000000
+      internalID: 2795072523594483641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_9
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 811
+        width: 66
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87e5265f892da330800000000000000
+      internalID: 3723678162507655052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_10
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 811
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800228cadba0ecdf0800000000000000
+      internalID: -158177127152082936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_11
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 811
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be40013ce13cc9540800000000000000
+      internalID: 5016098621872932075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_12
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 811
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f004bad8c22d0e2f0800000000000000
+      internalID: -945524832950599665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 673
+        width: 61
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da97792632bf3f0800000000000000
+      internalID: -866059596983587546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 673
+        width: 59
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4badbc4aacd18e0800000000000000
+      internalID: -1720996673442106196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 673
+        width: 56
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80adc3f049e98c410800000000000000
+      internalID: 1497621234848684552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 673
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb988d6847d58910800000000000000
+      internalID: 1839112728926002148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 673
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34ebb49530c3f780800000000000000
+      internalID: -8650359122887449541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_18
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 673
+        width: 61
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3cfb003cbd712f0800000000000000
+      internalID: -1002090761488972857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 673
+        width: 61
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99405ddb4c356c850800000000000000
+      internalID: 6396892425189917849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 673
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3016aff35fb34db70800000000000000
+      internalID: 8922822686254194947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_21
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 673
+        width: 67
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7dc540e17d530b0800000000000000
+      internalID: -5749452825346385996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_22
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 673
+        width: 70
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7635a2ea1e8109580800000000000000
+      internalID: -8822524312450083993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_23
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 673
+        width: 69
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0ae659cddb7a9e0800000000000000
+      internalID: -1610109586664152874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_24
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 673
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a9bcdabdf0e7930800000000000000
+      internalID: 4142766143415491170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_25
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 673
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0afaabd634ea860800000000000000
+      internalID: 7543040564454727921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_26
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 673
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e32a7be01cdaf20800000000000000
+      internalID: 3435614359708122725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_27
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 673
+        width: 97
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f6c22937d12a570800000000000000
+      internalID: 8476369830875524922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_28
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 673
+        width: 83
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d6c9b9d7401a7e0800000000000000
+      internalID: -1756117442169639523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_29
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 673
+        width: 73
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db7c5cc5c36cbcf0800000000000000
+      internalID: -235203379341788202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 538
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9190d6f98874e31b0800000000000000
+      internalID: -5675019828324398823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 538
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b7ff9323c37e970800000000000000
+      internalID: 8784055784628517743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_32
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 538
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d249ecbe272419f0800000000000000
+      internalID: -498730577039899950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 538
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ec90eda893658b0800000000000000
+      internalID: -5163876654140240354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_34
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 538
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f640d9bfe120fde0800000000000000
+      internalID: -1301502978811738380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_35
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 538
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a39e88fb254b3e0800000000000000
+      internalID: -2038913748702774738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_36
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 538
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2618bbaf56f923b20800000000000000
+      internalID: 3112725552813539682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_37
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 538
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350e42868267b62d0800000000000000
+      internalID: -3284401587318628269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_38
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 538
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edf4bb38fd37f090800000000000000
+      internalID: -8000858076637495831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_39
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 538
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80107ca91981fe3b0800000000000000
+      internalID: -5481135207840546552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_40
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 538
+        width: 70
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1860a576a64b2400800000000000000
+      internalID: 300411480902232095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_41
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 538
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445d0ebda3337cc80800000000000000
+      internalID: -8302611060144155324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 412
+        width: 65
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2545c10c33adfd0800000000000000
+      internalID: -2316482158126673186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 412
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab8b072f87fdc680800000000000000
+      internalID: -8733051908194071641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 412
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b42b1ca0de500380800000000000000
+      internalID: -9007095004407323464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_45
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 412
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c888b4ba029bd4850800000000000000
+      internalID: 6362945398508325004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 412
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa68ee12103ebb020800000000000000
+      internalID: 2358728423862339247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_47
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 412
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70088fb63a74fd050800000000000000
+      internalID: 5827455210057400327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_48
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 412
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db492b768f9f447f0800000000000000
+      internalID: -629103202638064451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_49
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 412
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296537a11b3f92ae0800000000000000
+      internalID: -1573458652810750318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_50
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 412
+        width: 85
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9e7dbddca4dcf40800000000000000
+      internalID: 5750334547239102890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_51
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 412
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd5ce6281e747fc0800000000000000
+      internalID: -3498032368362693185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_52
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 412
+        width: 65
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8ffbeca982af630800000000000000
+      internalID: 3961523467584534763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_53
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 412
+        width: 63
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528696aa65734c530800000000000000
+      internalID: 3874282424811218981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 296
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3810933bfdafcad10800000000000000
+      internalID: 2138359761785651587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_55
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 296
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a891c4fb2bdbb920800000000000000
+      internalID: 3007238158036342949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 296
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea52418d3a06af40800000000000000
+      internalID: 5739286034408168161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 296
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ce40da91cccdb70800000000000000
+      internalID: 8925232972190510166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_58
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 296
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffec922b23ad6a420800000000000000
+      internalID: 2641038142771678975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_59
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 296
+        width: 116
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea883278198a8bb70800000000000000
+      internalID: 8915060805370874030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_60
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 296
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dd01d143d3e5910800000000000000
+      internalID: 1827965792794238248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_61
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 295
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b380bc899297a31e0800000000000000
+      internalID: -2217326646962485189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_62
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 296
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdfa493e1fdf1770800000000000000
+      internalID: 8583824735694683643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_63
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 296
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d59d54bc9453270800000000000000
+      internalID: 8229565031488511299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_64
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 296
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f94460426db0120800000000000000
+      internalID: 2381232278207766328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_65
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 296
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b686ea36340d8f840800000000000000
+      internalID: 5258181552808814699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_66
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 296
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6642504d0f50ca60800000000000000
+      internalID: 7692252674067154538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_67
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 167
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2be3612de93b6750800000000000000
+      internalID: 6299192194437999402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_68
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 167
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c1d714cc634caf0800000000000000
+      internalID: -377116217892332543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_69
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 167
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95817adebf315ed20800000000000000
+      internalID: 3307071474118367321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_70
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 167
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1278de804a1d28f80800000000000000
+      internalID: -8105685876858845407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_71
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 167
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6144621ff7bc8100800000000000000
+      internalID: 111666396930523502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_72
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 167
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95029be22aa7f28f0800000000000000
+      internalID: -563096591410847655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_73
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 167
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b29df8c9ba421cd0800000000000000
+      internalID: -2588924673983147338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafa0d1eaabf98e60800000000000000
+      internalID: 7965174127332994989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 19
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf028e1948913250800000000000000
+      internalID: 5922682424780787651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 19
+        width: 65
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52744d3a02aa7c750800000000000000
+      internalID: 6325211258829424421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_77
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 19
+        width: 60
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a78728261f6afa10800000000000000
+      internalID: 1943988330117433248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 60
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea55da10bc4d2670800000000000000
+      internalID: 8515546789675621095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_79
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 19
+        width: 60
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cbb7986bbb6c7b0800000000000000
+      internalID: -5204265926714999727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_80
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 19
+        width: 61
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c197cecb5383510800000000000000
+      internalID: 1529031159029767200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_81
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 19
+        width: 60
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0516943a9a9c16f0800000000000000
+      internalID: -712524653933488881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_82
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 19
+        width: 60
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef47b7fe9fcc8690800000000000000
+      internalID: -7598470189613101078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_83
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 19
+        width: 60
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9b3b1f6bb596260800000000000000
+      internalID: 7091299929568819628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_84
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 19
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c091714bf7a6e00800000000000000
+      internalID: 1038783075520679048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_85
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 19
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62549e7a443146210800000000000000
+      internalID: 1325205375949554982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_86
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 19
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2597d92d381806710800000000000000
+      internalID: 1684488663810799954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_87
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 19
+        width: 70
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c32c46852f58d1c0800000000000000
+      internalID: -4478725214648392768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_88
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 19
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1355eec0d39d14de0800000000000000
+      internalID: -1350559557001259727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_89
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 19
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3509dcfaa857b30d0800000000000000
+      internalID: -3442028251679190957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_90
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 19
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edf29ad69cc0f190800000000000000
+      internalID: -7930613995515216414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorro1_91
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 19
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff30610fa72d57d0800000000000000
+      internalID: -2928140550125109263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gorro1_0: 2168953146967646416
+      gorro1_1: -7488071018672641715
+      gorro1_10: -158177127152082936
+      gorro1_11: 5016098621872932075
+      gorro1_12: -945524832950599665
+      gorro1_13: -866059596983587546
+      gorro1_14: -1720996673442106196
+      gorro1_15: 1497621234848684552
+      gorro1_16: 1839112728926002148
+      gorro1_17: -8650359122887449541
+      gorro1_18: -1002090761488972857
+      gorro1_19: 6396892425189917849
+      gorro1_2: -144764938312998941
+      gorro1_20: 8922822686254194947
+      gorro1_21: -5749452825346385996
+      gorro1_22: -8822524312450083993
+      gorro1_23: -1610109586664152874
+      gorro1_24: 4142766143415491170
+      gorro1_25: 7543040564454727921
+      gorro1_26: 3435614359708122725
+      gorro1_27: 8476369830875524922
+      gorro1_28: -1756117442169639523
+      gorro1_29: -235203379341788202
+      gorro1_3: -5509195128598032833
+      gorro1_30: -5675019828324398823
+      gorro1_31: 8784055784628517743
+      gorro1_32: -498730577039899950
+      gorro1_33: -5163876654140240354
+      gorro1_34: -1301502978811738380
+      gorro1_35: -2038913748702774738
+      gorro1_36: 3112725552813539682
+      gorro1_37: -3284401587318628269
+      gorro1_38: -8000858076637495831
+      gorro1_39: -5481135207840546552
+      gorro1_4: 2058001848527112084
+      gorro1_40: 300411480902232095
+      gorro1_41: -8302611060144155324
+      gorro1_42: -2316482158126673186
+      gorro1_43: -8733051908194071641
+      gorro1_44: -9007095004407323464
+      gorro1_45: 6362945398508325004
+      gorro1_46: 2358728423862339247
+      gorro1_47: 5827455210057400327
+      gorro1_48: -629103202638064451
+      gorro1_49: -1573458652810750318
+      gorro1_5: 6685671009715786311
+      gorro1_50: 5750334547239102890
+      gorro1_51: -3498032368362693185
+      gorro1_52: 3961523467584534763
+      gorro1_53: 3874282424811218981
+      gorro1_54: 2138359761785651587
+      gorro1_55: 3007238158036342949
+      gorro1_56: 5739286034408168161
+      gorro1_57: 8925232972190510166
+      gorro1_58: 2641038142771678975
+      gorro1_59: 8915060805370874030
+      gorro1_6: -1584544920600258833
+      gorro1_60: 1827965792794238248
+      gorro1_61: -2217326646962485189
+      gorro1_62: 8583824735694683643
+      gorro1_63: 8229565031488511299
+      gorro1_64: 2381232278207766328
+      gorro1_65: 5258181552808814699
+      gorro1_66: 7692252674067154538
+      gorro1_67: 6299192194437999402
+      gorro1_68: -377116217892332543
+      gorro1_69: 3307071474118367321
+      gorro1_7: 2414783400670879782
+      gorro1_70: -8105685876858845407
+      gorro1_71: 111666396930523502
+      gorro1_72: -563096591410847655
+      gorro1_73: -2588924673983147338
+      gorro1_74: 7965174127332994989
+      gorro1_75: 5922682424780787651
+      gorro1_76: 6325211258829424421
+      gorro1_77: 1943988330117433248
+      gorro1_78: 8515546789675621095
+      gorro1_79: -5204265926714999727
+      gorro1_8: 2795072523594483641
+      gorro1_80: 1529031159029767200
+      gorro1_81: -712524653933488881
+      gorro1_82: -7598470189613101078
+      gorro1_83: 7091299929568819628
+      gorro1_84: 1038783075520679048
+      gorro1_85: 1325205375949554982
+      gorro1_86: 1684488663810799954
+      gorro1_87: -4478725214648392768
+      gorro1_88: -1350559557001259727
+      gorro1_89: -3442028251679190957
+      gorro1_9: 3723678162507655052
+      gorro1_90: -7930613995515216414
+      gorro1_91: -2928140550125109263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

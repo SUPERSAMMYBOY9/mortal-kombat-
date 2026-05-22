@@ -1,0 +1,6357 @@
+fileFormatVersion: 2
+guid: 651a444ad0663a64ea9bc2fda550b609
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5469017808982442291
+    second: scorp1_0
+  - first:
+      213: -8745453805182033677
+    second: scorp1_1
+  - first:
+      213: -3830783548857388074
+    second: scorp1_2
+  - first:
+      213: -7221632608850853952
+    second: scorp1_3
+  - first:
+      213: 7995493292196359600
+    second: scorp1_4
+  - first:
+      213: 2104066359173419623
+    second: scorp1_5
+  - first:
+      213: 6185896286970485578
+    second: scorp1_6
+  - first:
+      213: 5172985758776066804
+    second: scorp1_7
+  - first:
+      213: 3685218707790171334
+    second: scorp1_8
+  - first:
+      213: 6003799791727449504
+    second: scorp1_9
+  - first:
+      213: -5454304115831326980
+    second: scorp1_10
+  - first:
+      213: 6157510483453390623
+    second: scorp1_11
+  - first:
+      213: 2665310453246488427
+    second: scorp1_12
+  - first:
+      213: -2016348332268706367
+    second: scorp1_13
+  - first:
+      213: -8591117262475564145
+    second: scorp1_14
+  - first:
+      213: -26564896376968854
+    second: scorp1_15
+  - first:
+      213: 3859514889669494807
+    second: scorp1_16
+  - first:
+      213: -5917693949936148733
+    second: scorp1_17
+  - first:
+      213: 4784404385422974005
+    second: scorp1_18
+  - first:
+      213: 4043266750566570531
+    second: scorp1_19
+  - first:
+      213: -241037081171945667
+    second: scorp1_20
+  - first:
+      213: -5675321335263605770
+    second: scorp1_21
+  - first:
+      213: 6374641828397806788
+    second: scorp1_22
+  - first:
+      213: 5510140050828437082
+    second: scorp1_23
+  - first:
+      213: 6591023350323878261
+    second: scorp1_24
+  - first:
+      213: -2253757784533589122
+    second: scorp1_25
+  - first:
+      213: 1379823868817130152
+    second: scorp1_26
+  - first:
+      213: -6020252127936282303
+    second: scorp1_27
+  - first:
+      213: 302437924543222698
+    second: scorp1_28
+  - first:
+      213: 6249197179008630079
+    second: scorp1_29
+  - first:
+      213: -3512213735694028788
+    second: scorp1_30
+  - first:
+      213: 1583045492487914605
+    second: scorp1_31
+  - first:
+      213: 1974657840764729482
+    second: scorp1_32
+  - first:
+      213: -517298878489492685
+    second: scorp1_33
+  - first:
+      213: -1732418857981094232
+    second: scorp1_34
+  - first:
+      213: -7136080696665221469
+    second: scorp1_35
+  - first:
+      213: -2810044217361146962
+    second: scorp1_36
+  - first:
+      213: -4641231611193242324
+    second: scorp1_37
+  - first:
+      213: -5632341792386082400
+    second: scorp1_38
+  - first:
+      213: -2591838681358952695
+    second: scorp1_39
+  - first:
+      213: 4383924876016596928
+    second: scorp1_40
+  - first:
+      213: 5769699698007200190
+    second: scorp1_41
+  - first:
+      213: -3921686126292760564
+    second: scorp1_42
+  - first:
+      213: -4425536835762732417
+    second: scorp1_43
+  - first:
+      213: 7519470459668924607
+    second: scorp1_44
+  - first:
+      213: -2001023138490070374
+    second: scorp1_45
+  - first:
+      213: 4703625095689089073
+    second: scorp1_46
+  - first:
+      213: 1660206724080098814
+    second: scorp1_47
+  - first:
+      213: 8446782168358608126
+    second: scorp1_48
+  - first:
+      213: -2567653962578732166
+    second: scorp1_49
+  - first:
+      213: -4161018162430072469
+    second: scorp1_50
+  - first:
+      213: 596527276026794386
+    second: scorp1_51
+  - first:
+      213: -709365421414425672
+    second: scorp1_52
+  - first:
+      213: 2520860477444599120
+    second: scorp1_53
+  - first:
+      213: -1503750310654150713
+    second: scorp1_54
+  - first:
+      213: -8210555060035746284
+    second: scorp1_55
+  - first:
+      213: 8371941718256932404
+    second: scorp1_56
+  - first:
+      213: -1877219768851441073
+    second: scorp1_57
+  - first:
+      213: -3455513280139179270
+    second: scorp1_58
+  - first:
+      213: 729844473166684509
+    second: scorp1_59
+  - first:
+      213: -2817488368980007927
+    second: scorp1_60
+  - first:
+      213: 6157025795166242760
+    second: scorp1_61
+  - first:
+      213: 9146255915436039319
+    second: scorp1_62
+  - first:
+      213: 1649911800704628334
+    second: scorp1_63
+  - first:
+      213: -346167501940001680
+    second: scorp1_64
+  - first:
+      213: 4228011141385675497
+    second: scorp1_65
+  - first:
+      213: 2433866638866532842
+    second: scorp1_66
+  - first:
+      213: -3095577686764490753
+    second: scorp1_67
+  - first:
+      213: -7420156119423049349
+    second: scorp1_68
+  - first:
+      213: -1226871019402608155
+    second: scorp1_69
+  - first:
+      213: -4643007463815095480
+    second: scorp1_70
+  - first:
+      213: 3781730957928396760
+    second: scorp1_71
+  - first:
+      213: -2185796324898246360
+    second: scorp1_72
+  - first:
+      213: -8168432060332786020
+    second: scorp1_73
+  - first:
+      213: 3289033401573588459
+    second: scorp1_74
+  - first:
+      213: 7536275357316508779
+    second: scorp1_75
+  - first:
+      213: -8611416413036208442
+    second: scorp1_76
+  - first:
+      213: 4848196520649670551
+    second: scorp1_77
+  - first:
+      213: 2390184970822473708
+    second: scorp1_78
+  - first:
+      213: -889138805267491619
+    second: scorp1_79
+  - first:
+      213: -5629902432657479241
+    second: scorp1_80
+  - first:
+      213: 4790133510809261206
+    second: scorp1_81
+  - first:
+      213: 5768991712614800761
+    second: scorp1_82
+  - first:
+      213: 5237705093089712341
+    second: scorp1_83
+  - first:
+      213: -1239055688596505945
+    second: scorp1_84
+  - first:
+      213: 2025688266286027960
+    second: scorp1_85
+  - first:
+      213: -2676339403037695367
+    second: scorp1_86
+  - first:
+      213: -6200383075822994655
+    second: scorp1_87
+  - first:
+      213: 1768633887421735569
+    second: scorp1_88
+  - first:
+      213: 3262724413013329751
+    second: scorp1_89
+  - first:
+      213: -2944261277967353427
+    second: scorp1_90
+  - first:
+      213: 8256595927957709964
+    second: scorp1_91
+  - first:
+      213: 3667712161377401659
+    second: scorp1_92
+  - first:
+      213: 4712782812546813552
+    second: scorp1_93
+  - first:
+      213: 3329894559185074794
+    second: scorp1_94
+  - first:
+      213: 2851380961617022522
+    second: scorp1_95
+  - first:
+      213: 9091131438597822595
+    second: scorp1_96
+  - first:
+      213: 7305639749408865811
+    second: scorp1_97
+  - first:
+      213: 5425184125761739074
+    second: scorp1_98
+  - first:
+      213: 7394361639593820425
+    second: scorp1_99
+  - first:
+      213: -8107007058871341172
+    second: scorp1_100
+  - first:
+      213: -5277698811031708540
+    second: scorp1_101
+  - first:
+      213: -8211661958674256998
+    second: scorp1_102
+  - first:
+      213: 3804105492197495706
+    second: scorp1_103
+  - first:
+      213: -7340617317263709153
+    second: scorp1_104
+  - first:
+      213: -6619045962822978905
+    second: scorp1_105
+  - first:
+      213: 8461464050581279384
+    second: scorp1_106
+  - first:
+      213: -2547519781926436164
+    second: scorp1_107
+  - first:
+      213: 8448029267471984906
+    second: scorp1_108
+  - first:
+      213: 3683493713009992133
+    second: scorp1_109
+  - first:
+      213: -747229223599092817
+    second: scorp1_110
+  - first:
+      213: -2660961982048415654
+    second: scorp1_111
+  - first:
+      213: 8883927439932181042
+    second: scorp1_112
+  - first:
+      213: -1540885102608443127
+    second: scorp1_113
+  - first:
+      213: -2125370267461349958
+    second: scorp1_114
+  - first:
+      213: 2048680643983361352
+    second: scorp1_115
+  - first:
+      213: -8477920244929916515
+    second: scorp1_116
+  - first:
+      213: 2971207089211766513
+    second: scorp1_117
+  - first:
+      213: 2574051654293031182
+    second: scorp1_118
+  - first:
+      213: 831866187352355431
+    second: scorp1_119
+  - first:
+      213: -1352345781936044294
+    second: scorp1_120
+  - first:
+      213: 2111039810568134992
+    second: scorp1_121
+  - first:
+      213: 1159784884478436969
+    second: scorp1_122
+  - first:
+      213: 4674910316506196296
+    second: scorp1_123
+  - first:
+      213: 1834095896224012101
+    second: scorp1_124
+  - first:
+      213: 8154882084782284635
+    second: scorp1_125
+  - first:
+      213: 7503846684163906347
+    second: scorp1_126
+  - first:
+      213: -133348636887497060
+    second: scorp1_127
+  - first:
+      213: -6012278463274976570
+    second: scorp1_128
+  - first:
+      213: -5061576257096448172
+    second: scorp1_129
+  - first:
+      213: 3020889065252494920
+    second: scorp1_130
+  - first:
+      213: 4087362948518282349
+    second: scorp1_131
+  - first:
+      213: -7765147484002445778
+    second: scorp1_132
+  - first:
+      213: -3180400523547409158
+    second: scorp1_133
+  - first:
+      213: 6587689431353408434
+    second: scorp1_134
+  - first:
+      213: 5710060590952745642
+    second: scorp1_135
+  - first:
+      213: -704055676040609963
+    second: scorp1_136
+  - first:
+      213: -1183323885125278226
+    second: scorp1_137
+  - first:
+      213: -5566776111591277153
+    second: scorp1_138
+  - first:
+      213: -4244453218693931164
+    second: scorp1_139
+  - first:
+      213: -8259729576444779449
+    second: scorp1_140
+  - first:
+      213: 1056984686548047713
+    second: scorp1_141
+  - first:
+      213: -6011241611522776959
+    second: scorp1_142
+  - first:
+      213: -5793626215860867763
+    second: scorp1_143
+  - first:
+      213: 7876719486755288550
+    second: scorp1_144
+  - first:
+      213: -8614201126860885484
+    second: scorp1_145
+  - first:
+      213: 2767119441107131436
+    second: scorp1_146
+  - first:
+      213: -603930945246932014
+    second: scorp1_147
+  - first:
+      213: -9114035359883843831
+    second: scorp1_148
+  - first:
+      213: 4126954347780786271
+    second: scorp1_149
+  - first:
+      213: -2577709050005541926
+    second: scorp1_150
+  - first:
+      213: -625642026858372469
+    second: scorp1_151
+  - first:
+      213: -3869132337045450167
+    second: scorp1_152
+  - first:
+      213: -5449863679606538937
+    second: scorp1_153
+  - first:
+      213: -8952879554381619289
+    second: scorp1_154
+  - first:
+      213: 5670000780688428118
+    second: scorp1_155
+  - first:
+      213: -2399282743973783454
+    second: scorp1_156
+  - first:
+      213: -1707051253096720305
+    second: scorp1_157
+  - first:
+      213: -3913184031233599383
+    second: scorp1_158
+  - first:
+      213: -6180899642975330752
+    second: scorp1_159
+  - first:
+      213: 9165281320812200203
+    second: scorp1_160
+  - first:
+      213: -2681327291231594910
+    second: scorp1_161
+  - first:
+      213: -1235335210170579284
+    second: scorp1_162
+  - first:
+      213: -3747929782764535628
+    second: scorp1_163
+  - first:
+      213: -1477324316846785970
+    second: scorp1_164
+  - first:
+      213: -1326256265131973454
+    second: scorp1_165
+  - first:
+      213: 8349212028051842243
+    second: scorp1_166
+  - first:
+      213: -7038773876368840163
+    second: scorp1_167
+  - first:
+      213: -6871583828796841651
+    second: scorp1_168
+  - first:
+      213: 6295907559422816161
+    second: scorp1_169
+  - first:
+      213: -5918869250654529364
+    second: scorp1_170
+  - first:
+      213: 6563222385882679289
+    second: scorp1_171
+  - first:
+      213: -9183220731409043741
+    second: scorp1_172
+  - first:
+      213: 6546699183665021163
+    second: scorp1_173
+  - first:
+      213: 9202865121195034357
+    second: scorp1_174
+  - first:
+      213: -2655255570980936441
+    second: scorp1_175
+  - first:
+      213: 5480280897860195300
+    second: scorp1_176
+  - first:
+      213: -7935355415717329841
+    second: scorp1_177
+  - first:
+      213: 891849556894808502
+    second: scorp1_178
+  - first:
+      213: 8809753542916119889
+    second: scorp1_179
+  - first:
+      213: 309029843489683845
+    second: scorp1_180
+  - first:
+      213: 2834858135817438114
+    second: scorp1_181
+  - first:
+      213: 7542020371527642379
+    second: scorp1_182
+  - first:
+      213: -4752095509714421315
+    second: scorp1_183
+  - first:
+      213: -8785277812799199120
+    second: scorp1_184
+  - first:
+      213: -3323257616857132514
+    second: scorp1_185
+  - first:
+      213: -3525272194729051669
+    second: scorp1_186
+  - first:
+      213: -3734924437700004434
+    second: scorp1_187
+  - first:
+      213: -2620634286250394611
+    second: scorp1_188
+  - first:
+      213: -3746479984335695209
+    second: scorp1_189
+  - first:
+      213: -93899466241034308
+    second: scorp1_190
+  - first:
+      213: 2823212254894705097
+    second: scorp1_191
+  - first:
+      213: 8240400782200312499
+    second: scorp1_192
+  - first:
+      213: -4501128117199209394
+    second: scorp1_193
+  - first:
+      213: 4446762305805638664
+    second: scorp1_194
+  - first:
+      213: 1793073553703828402
+    second: scorp1_195
+  - first:
+      213: -6976421812521917284
+    second: scorp1_196
+  - first:
+      213: 5011789895916966217
+    second: scorp1_197
+  - first:
+      213: 843847517277906726
+    second: scorp1_198
+  - first:
+      213: 1303974941480858445
+    second: scorp1_199
+  - first:
+      213: -7293348374032814146
+    second: scorp1_200
+  - first:
+      213: -7025502935887330618
+    second: scorp1_201
+  - first:
+      213: 3303921284428971120
+    second: scorp1_202
+  - first:
+      213: -8467535561689985945
+    second: scorp1_203
+  - first:
+      213: -3268492928615609808
+    second: scorp1_204
+  - first:
+      213: -7662280452439313303
+    second: scorp1_205
+  - first:
+      213: 6980507407495911023
+    second: scorp1_206
+  - first:
+      213: 8570818701981830571
+    second: scorp1_207
+  - first:
+      213: -3964828143201473045
+    second: scorp1_208
+  - first:
+      213: 5518556001092149291
+    second: scorp1_209
+  - first:
+      213: 1712242604420454669
+    second: scorp1_210
+  - first:
+      213: -435543582344066507
+    second: scorp1_211
+  - first:
+      213: -5762132676910769963
+    second: scorp1_212
+  - first:
+      213: -1823699493234545278
+    second: scorp1_213
+  - first:
+      213: -9021626491618512611
+    second: scorp1_214
+  - first:
+      213: -1118575188319250528
+    second: scorp1_215
+  - first:
+      213: -3135472167731492882
+    second: scorp1_216
+  - first:
+      213: 2609437211981454141
+    second: scorp1_217
+  - first:
+      213: 6695314102332697624
+    second: scorp1_218
+  - first:
+      213: 4200319046580029790
+    second: scorp1_219
+  - first:
+      213: 2421842162183123267
+    second: scorp1_220
+  - first:
+      213: 3667191553491005811
+    second: scorp1_221
+  - first:
+      213: 7512390937353624818
+    second: scorp1_222
+  - first:
+      213: 5365559220522277468
+    second: scorp1_223
+  - first:
+      213: 5349437390894202187
+    second: scorp1_224
+  - first:
+      213: 2515294303962348760
+    second: scorp1_225
+  - first:
+      213: 4157131586987356251
+    second: scorp1_226
+  - first:
+      213: 4705386280477864550
+    second: scorp1_227
+  - first:
+      213: 2463785268095147907
+    second: scorp1_228
+  - first:
+      213: 3981867768887735660
+    second: scorp1_229
+  - first:
+      213: 5165733242819789123
+    second: scorp1_230
+  - first:
+      213: 7037502678149306783
+    second: scorp1_231
+  - first:
+      213: -8640835214478427347
+    second: scorp1_232
+  - first:
+      213: 6638177977993422636
+    second: scorp1_233
+  - first:
+      213: 1207075646966004937
+    second: scorp1_234
+  - first:
+      213: 4830941974335573365
+    second: scorp1_235
+  - first:
+      213: -7800258371340754927
+    second: scorp1_236
+  - first:
+      213: 732788745913497195
+    second: scorp1_237
+  - first:
+      213: 2276003534659950005
+    second: scorp1_238
+  - first:
+      213: 9132371065419343124
+    second: scorp1_239
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scorp1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1477
+        width: 48
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3310fae98bad5eb40800000000000000
+      internalID: 5469017808982442291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1477
+        width: 48
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0698e7918e1a680800000000000000
+      internalID: -8745453805182033677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1477
+        width: 47
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3f1fe98a256dac0800000000000000
+      internalID: -3830783548857388074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1477
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf3113776b97cb90800000000000000
+      internalID: -7221632608850853952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1477
+        width: 47
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bde16d89c2b5fe60800000000000000
+      internalID: 7995493292196359600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1477
+        width: 47
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7629162b435233d10800000000000000
+      internalID: 2104066359173419623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1477
+        width: 48
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b984216e7b8d550800000000000000
+      internalID: 6185896286970485578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1477
+        width: 49
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f28004d3232ac740800000000000000
+      internalID: 5172985758776066804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1477
+        width: 44
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc057db3e6842330800000000000000
+      internalID: 3685218707790171334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1477
+        width: 43
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a59a70e918c15350800000000000000
+      internalID: 6003799791727449504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1477
+        width: 44
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf63ce60e4b6e44b0800000000000000
+      internalID: -5454304115831326980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_11
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1477
+        width: 47
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fabfa292fd37550800000000000000
+      internalID: 6157510483453390623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_12
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1477
+        width: 46
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f64ed5cb51df420800000000000000
+      internalID: 2665310453246488427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_13
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1477
+        width: 39
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c52ca7ffdd7404e0800000000000000
+      internalID: -2016348332268706367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_14
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1477
+        width: 39
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bea621e5836c880800000000000000
+      internalID: -8591117262475564145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_15
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1477
+        width: 45
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69a4f31e5f91aff0800000000000000
+      internalID: -26564896376968854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_16
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1477
+        width: 45
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718c414f750cf8530800000000000000
+      internalID: 3859514889669494807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_17
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1477
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fd390b4b020eda0800000000000000
+      internalID: -5917693949936148733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_18
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1477
+        width: 41
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c15fe807e956240800000000000000
+      internalID: 4784404385422974005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1348
+        width: 48
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a1bafffa19c1830800000000000000
+      internalID: 4043266750566570531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1348
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d379c0f3d0aa7acf0800000000000000
+      internalID: -241037081171945667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1348
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbca6190553d31b0800000000000000
+      internalID: -5675321335263605770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1348
+        width: 47
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c47ff7f7f6477850800000000000000
+      internalID: 6374641828397806788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1348
+        width: 46
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a562848ae23f77c40800000000000000
+      internalID: 5510140050828437082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_24
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1348
+        width: 47
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5791c5ef0d4087b50800000000000000
+      internalID: 6591023350323878261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_25
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1348
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73aa136c3b09b0e0800000000000000
+      internalID: -2253757784533589122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_26
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1348
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a243718f7e162310800000000000000
+      internalID: 1379823868817130152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1348
+        width: 52
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14181181694c37ca0800000000000000
+      internalID: -6020252127936282303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_28
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1348
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa35103a0b9723400800000000000000
+      internalID: 302437924543222698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_29
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1348
+        width: 45
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dbe2289bb99b650800000000000000
+      internalID: 6249197179008630079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_30
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1348
+        width: 41
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00b5b4473c124fc0800000000000000
+      internalID: -3512213735694028788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_31
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1348
+        width: 40
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d648603fc7b18f510800000000000000
+      internalID: 1583045492487914605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_32
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1348
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88b8bf08d4676b10800000000000000
+      internalID: 1974657840764729482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_33
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1348
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3330de8296f22d8f0800000000000000
+      internalID: -517298878489492685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_34
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1348
+        width: 42
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a659d73a3635f7e0800000000000000
+      internalID: -1732418857981094232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_35
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1348
+        width: 41
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a65fba3a6c87fc90800000000000000
+      internalID: -7136080696665221469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_36
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1348
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab5c0d2ca7b009d0800000000000000
+      internalID: -2810044217361146962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_37
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1348
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d438e9078079fb0800000000000000
+      internalID: -4641231611193242324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_38
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1348
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a99d333bf6e5d1b0800000000000000
+      internalID: -5632341792386082400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_39
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1348
+        width: 44
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9079b729370f70cd0800000000000000
+      internalID: -2591838681358952695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_40
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1348
+        width: 41
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7b7fc9274d6dc30800000000000000
+      internalID: 4383924876016596928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_41
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1348
+        width: 41
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1d5606e47121050800000000000000
+      internalID: 5769699698007200190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_42
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1348
+        width: 43
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c080eb10f3f5399c0800000000000000
+      internalID: -3921686126292760564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_43
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1232
+        width: 47
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72c4f302b55592c0800000000000000
+      internalID: -4425536835762732417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_44
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1232
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb80c9f0b868a5860800000000000000
+      internalID: 7519470459668924607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_45
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1232
+        width: 71
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a46f2be00fa34e0800000000000000
+      internalID: -2001023138490070374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_46
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1232
+        width: 42
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13039298a12a64140800000000000000
+      internalID: 4703625095689089073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_47
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1232
+        width: 53
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd528a283d3a0710800000000000000
+      internalID: 1660206724080098814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_48
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1232
+        width: 71
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc5e1011aff83570800000000000000
+      internalID: 8446782168358608126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_49
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1232
+        width: 48
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bde56335cdd5cd0800000000000000
+      internalID: -2567653962578732166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_50
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1232
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69286cf6081146c0800000000000000
+      internalID: -4161018162430072469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1118
+        width: 47
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2919862a56a474800800000000000000
+      internalID: 596527276026794386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_52
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1118
+        width: 70
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbd5a858e3d726f0800000000000000
+      internalID: -709365421414425672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_53
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1118
+        width: 42
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d28668f35ebf220800000000000000
+      internalID: 2520860477444599120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_54
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1118
+        width: 53
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c773964f0b912be0800000000000000
+      internalID: -1503750310654150713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1118
+        width: 70
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41688cd9caf3e0e80800000000000000
+      internalID: -8210555060035746284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_56
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1118
+        width: 54
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4365af4e2ac1f2470800000000000000
+      internalID: 8371941718256932404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_57
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1118
+        width: 73
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ad440f096c2f5e0800000000000000
+      internalID: -1877219768851441073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_58
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1118
+        width: 52
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afac8a4dafc8b00d0800000000000000
+      internalID: -3455513280139179270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_59
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1118
+        width: 52
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51e1647eade02a00800000000000000
+      internalID: 729844473166684509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_60
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1118
+        width: 43
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904e620914546e8d0800000000000000
+      internalID: -2817488368980007927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_61
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1118
+        width: 65
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c70dc1e656227550800000000000000
+      internalID: 6157025795166242760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_62
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1118
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c5160db470eee70800000000000000
+      internalID: 9146255915436039319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_63
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1003
+        width: 45
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6679b78a0aa5e610800000000000000
+      internalID: 1649911800704628334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_64
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1003
+        width: 47
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074f416bd7a223bf0800000000000000
+      internalID: -346167501940001680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_65
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1003
+        width: 35
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2efac6bb9ecaa30800000000000000
+      internalID: 4228011141385675497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1003
+        width: 54
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9405810d4d6c120800000000000000
+      internalID: 2433866638866532842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_67
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1003
+        width: 77
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffe6c5be7c4a05d0800000000000000
+      internalID: -3095577686764490753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1003
+        width: 63
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7129d3b25f460990800000000000000
+      internalID: -7420156119423049349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_69
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1003
+        width: 45
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1494fde4749fee0800000000000000
+      internalID: -1226871019402608155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_70
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1003
+        width: 47
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b50d5bf49b09fb0800000000000000
+      internalID: -4643007463815095480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_71
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1003
+        width: 35
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d77b6f05486b7430800000000000000
+      internalID: 3781730957928396760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_72
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1003
+        width: 54
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821f517c2dd7aa1e0800000000000000
+      internalID: -2185796324898246360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_73
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1003
+        width: 81
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eb3ffb156e3ae80800000000000000
+      internalID: -8168432060332786020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_74
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1003
+        width: 63
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed3033e37ef4ad20800000000000000
+      internalID: 3289033401573588459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_75
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1003
+        width: 48
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c6162328a369860800000000000000
+      internalID: 7536275357316508779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_76
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1003
+        width: 52
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce1208c56a1e7880800000000000000
+      internalID: -8611416413036208442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_77
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 888
+        width: 46
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fbb967c01484340800000000000000
+      internalID: 4848196520649670551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_78
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 888
+        width: 51
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7d9553194ab2120800000000000000
+      internalID: 2390184970822473708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_79
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 888
+        width: 77
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4140ca7f429a3f0800000000000000
+      internalID: -889138805267491619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_80
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 888
+        width: 50
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9e755e0919ed1b0800000000000000
+      internalID: -5629902432657479241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_81
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 888
+        width: 43
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6941b728c09f97240800000000000000
+      internalID: 4790133510809261206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_82
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 888
+        width: 44
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dd39ea5639f0050800000000000000
+      internalID: 5768991712614800761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_83
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 888
+        width: 47
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8ddd7180110b840800000000000000
+      internalID: 5237705093089712341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_84
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 888
+        width: 45
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa37408a6dfdcee0800000000000000
+      internalID: -1239055688596505945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_85
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 888
+        width: 45
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4d7a1eeb0bc1c10800000000000000
+      internalID: 2025688266286027960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_86
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 888
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972ae872e7bbbdad0800000000000000
+      internalID: -2676339403037695367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_87
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 888
+        width: 44
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bf93e8170d3f9a0800000000000000
+      internalID: -6200383075822994655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_88
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 888
+        width: 76
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192ad7566237b8810800000000000000
+      internalID: 1768633887421735569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_89
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 888
+        width: 76
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75787a52196874d20800000000000000
+      internalID: 3262724413013329751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_90
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 888
+        width: 42
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da971d097f1e327d0800000000000000
+      internalID: -2944261277967353427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_91
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 888
+        width: 67
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c842bdb4042559270800000000000000
+      internalID: 8256595927957709964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_92
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 888
+        width: 45
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bb74547c456e230800000000000000
+      internalID: 3667712161377401659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_93
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 754
+        width: 46
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e4b65affa276140800000000000000
+      internalID: 4712782812546813552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_94
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 754
+        width: 50
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a7bb38579263e20800000000000000
+      internalID: 3329894559185074794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_95
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 754
+        width: 69
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e8e7890e3229720800000000000000
+      internalID: 2851380961617022522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_96
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 754
+        width: 42
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388520460ef2a2e70800000000000000
+      internalID: 9091131438597822595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_97
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 754
+        width: 39
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e3d7825a8d26560800000000000000
+      internalID: 7305639749408865811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_98
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 754
+        width: 53
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249dd11f7302a4b40800000000000000
+      internalID: 5425184125761739074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_99
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 754
+        width: 66
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901c3c4fbbc0e9660800000000000000
+      internalID: 7394361639593820425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_100
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 754
+        width: 72
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fa36068002e7f80800000000000000
+      internalID: -8107007058871341172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_101
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 754
+        width: 38
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c14f0d4e8d1c6b0800000000000000
+      internalID: -5277698811031708540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_102
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 754
+        width: 54
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9be1a1b4f05a0e80800000000000000
+      internalID: -8211661958674256998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_103
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 754
+        width: 90
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a935b864ac5eac430800000000000000
+      internalID: 3804105492197495706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_104
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 754
+        width: 56
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c6a643173e02a90800000000000000
+      internalID: -7340617317263709153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_105
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 754
+        width: 75
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2f3f914cc6424a0800000000000000
+      internalID: -6619045962822978905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_106
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 754
+        width: 41
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89292a629b82d6570800000000000000
+      internalID: 8461464050581279384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_107
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 754
+        width: 82
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb28ef3714465acd0800000000000000
+      internalID: -2547519781926436164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_108
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 635
+        width: 46
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0965c3fbdd6d3570800000000000000
+      internalID: 8448029267471984906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_109
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 635
+        width: 49
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1685814066e1330800000000000000
+      internalID: 3683493713009992133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_110
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 635
+        width: 54
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabc599eafe41a5f0800000000000000
+      internalID: -747229223599092817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_111
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 635
+        width: 44
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a505f2bfc2d521bd0800000000000000
+      internalID: -2660961982048415654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_112
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 635
+        width: 47
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ac08300fc0a4b70800000000000000
+      internalID: 8883927439932181042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_113
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 635
+        width: 54
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9091553c92dad9ae0800000000000000
+      internalID: -1540885102608443127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_114
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 635
+        width: 56
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd0acf900b2182e0800000000000000
+      internalID: -2125370267461349958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_115
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 635
+        width: 47
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845c8daf0306e6c10800000000000000
+      internalID: 2048680643983361352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_116
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 635
+        width: 35
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d911cd68470685a80800000000000000
+      internalID: -8477920244929916515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_117
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 635
+        width: 29
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6f6920b19db3920800000000000000
+      internalID: 2971207089211766513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_118
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 635
+        width: 38
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0984a7775ed8b320800000000000000
+      internalID: 2574051654293031182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_119
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 635
+        width: 40
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762bbc5d3e16b8b00800000000000000
+      internalID: 831866187352355431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_120
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 635
+        width: 48
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af644362da08b3de0800000000000000
+      internalID: -1352345781936044294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_121
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 635
+        width: 41
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0512f9fd58beb4d10800000000000000
+      internalID: 2111039810568134992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_122
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 635
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96664372532681010800000000000000
+      internalID: 1159784884478436969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_123
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 635
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84929240a2e90e040800000000000000
+      internalID: 4674910316506196296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_124
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 635
+        width: 37
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5471f6a0084047910800000000000000
+      internalID: 1834095896224012101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_125
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 635
+        width: 42
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f15a8bc06fb2170800000000000000
+      internalID: 8154882084782284635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_126
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 635
+        width: 41
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b159a5dc4032860800000000000000
+      internalID: 7503846684163906347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_127
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 635
+        width: 39
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96c90b0f10462ef0800000000000000
+      internalID: -133348636887497060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_128
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 635
+        width: 38
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca73c19798109ca0800000000000000
+      internalID: -6012278463274976570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_129
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 635
+        width: 43
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4570738263ba1c9b0800000000000000
+      internalID: -5061576257096448172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_130
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 635
+        width: 43
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e9c38799a5ce920800000000000000
+      internalID: 3020889065252494920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_131
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 635
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64868622fa39b830800000000000000
+      internalID: 4087362948518282349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_132
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 635
+        width: 36
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26148b3187ac3490800000000000000
+      internalID: -7765147484002445778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_133
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 635
+        width: 41
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af48d760392fcd3d0800000000000000
+      internalID: -3180400523547409158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_134
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 635
+        width: 50
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb3a6e72ac2c6b50800000000000000
+      internalID: 6587689431353408434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_135
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 635
+        width: 52
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa02b1bad53e3f40800000000000000
+      internalID: 5710060590952745642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_136
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 635
+        width: 42
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f7087c711ba36f0800000000000000
+      internalID: -704055676040609963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_137
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 527
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee56fdc223df39fe0800000000000000
+      internalID: -1183323885125278226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_138
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 527
+        width: 71
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9db87cde96deb2b0800000000000000
+      internalID: -5566776111591277153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_139
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 527
+        width: 51
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f1cf1294ca815c0800000000000000
+      internalID: -4244453218693931164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_140
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 527
+        width: 42
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744a83f46bb8f5d80800000000000000
+      internalID: -8259729576444779449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_141
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 527
+        width: 67
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16759b6e8f92bae00800000000000000
+      internalID: 1056984686548047713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_142
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 527
+        width: 89
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180632e6a97c39ca0800000000000000
+      internalID: -6011241611522776959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_143
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 527
+        width: 61
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4de83217a7e89fa0800000000000000
+      internalID: -5793626215860867763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_144
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 527
+        width: 58
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5327bf3aabf4d60800000000000000
+      internalID: 7876719486755288550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_145
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 527
+        width: 57
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412ffa117b5347880800000000000000
+      internalID: -8614201126860885484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_146
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 527
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c944a8878c66620800000000000000
+      internalID: 2767119441107131436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_147
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 527
+        width: 66
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d0bb41086e97f0800000000000000
+      internalID: -603930945246932014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_148
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 527
+        width: 62
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90726cfd021748180800000000000000
+      internalID: -9114035359883843831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_149
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 432
+        width: 55
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f584abf1d13e54930800000000000000
+      internalID: 4126954347780786271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_150
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 432
+        width: 50
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb2c1cb6432a3cd0800000000000000
+      internalID: -2577709050005541926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_151
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 432
+        width: 59
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b822d8034e54157f0800000000000000
+      internalID: -625642026858372469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_152
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 432
+        width: 52
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942dd6593a41e4ac0800000000000000
+      internalID: -3869132337045450167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_153
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 432
+        width: 55
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dbfb6abd13e54b0800000000000000
+      internalID: -5449863679606538937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_154
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 432
+        width: 67
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afd93cca7bf0c380800000000000000
+      internalID: -8952879554381619289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_155
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 432
+        width: 89
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c0f194ba3efae40800000000000000
+      internalID: 5670000780688428118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_156
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 432
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268d7b96e0904bed0800000000000000
+      internalID: -2399282743973783454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_157
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 432
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48d8cdfde55f48e0800000000000000
+      internalID: -1707051253096720305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_158
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 432
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96817954bd391b9c0800000000000000
+      internalID: -3913184031233599383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_159
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 432
+        width: 62
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04edd14c588093aa0800000000000000
+      internalID: -6180899642975330752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_160
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 432
+        width: 53
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01c8813dce913f70800000000000000
+      internalID: 9165281320812200203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_161
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 319
+        width: 62
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266949fe8030acad0800000000000000
+      internalID: -2681327291231594910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_162
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 319
+        width: 50
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca60043eb253bdee0800000000000000
+      internalID: -1235335210170579284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_163
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 319
+        width: 74
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0863f48bdacfbc0800000000000000
+      internalID: -3747929782764535628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_164
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 319
+        width: 74
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4afc4c6c5d7f7be0800000000000000
+      internalID: -1477324316846785970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_165
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 319
+        width: 70
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b42ca324f0389de0800000000000000
+      internalID: -1326256265131973454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_166
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 319
+        width: 49
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4e27e7a1c5ed370800000000000000
+      internalID: 8349212028051842243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_167
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 319
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a6cb4d370415e90800000000000000
+      internalID: -7038773876368840163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_168
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 291
+        width: 21
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41ee383aea33a0a0800000000000000
+      internalID: -6871583828796841651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_169
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 289
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afe712719e8f5750800000000000000
+      internalID: 6295907559422816161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_170
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 285
+        width: 30
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca811caa6c3fbdda0800000000000000
+      internalID: -5918869250654529364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_171
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 285
+        width: 48
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7cd6c8cff351b50800000000000000
+      internalID: 6563222385882679289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_172
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 289
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee6c5a4665ae8080800000000000000
+      internalID: -9183220731409043741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_173
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 289
+        width: 50
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be081bdb83c8ada50800000000000000
+      internalID: 6546699183665021163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 285
+        width: 99
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f689a0a11527bf70800000000000000
+      internalID: 9202865121195034357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_175
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 285
+        width: 110
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705edc75023a62bd0800000000000000
+      internalID: -2655255570980936441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_176
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 291
+        width: 21
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3d05ad07edd0c40800000000000000
+      internalID: 5480280897860195300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_177
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 289
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4442bfea44ffd190800000000000000
+      internalID: -7935355415717329841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_178
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 285
+        width: 30
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9fdcf527c706c00800000000000000
+      internalID: 891849556894808502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_179
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 285
+        width: 48
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d1144db28824a70800000000000000
+      internalID: 8809753542916119889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_180
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 289
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589723e5105e94400800000000000000
+      internalID: 309029843489683845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_181
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 291
+        width: 49
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3460e6470775720800000000000000
+      internalID: 2834858135817438114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_182
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 285
+        width: 99
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d2aad8193aaa860800000000000000
+      internalID: 7542020371527642379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_183
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 285
+        width: 110
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db93eb4cf4a2d0eb0800000000000000
+      internalID: -4752095509714421315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_184
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 292
+        width: 160
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078abfa206c641680800000000000000
+      internalID: -8785277812799199120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_185
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 295
+        width: 32
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e129e1a0eca61e1d0800000000000000
+      internalID: -3323257616857132514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_186
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 295
+        width: 32
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9fc98dd97b31fc0800000000000000
+      internalID: -3525272194729051669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_187
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 128
+        width: 39
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea537fb2302ea2cc0800000000000000
+      internalID: -3734924437700004434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_188
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 38
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cf5d95003a1abd0800000000000000
+      internalID: -2620634286250394611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_189
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 128
+        width: 40
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7925f8fcd44d10cc0800000000000000
+      internalID: -3746479984335695209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_190
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 128
+        width: 38
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7ba16dee662bef0800000000000000
+      internalID: -93899466241034308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_191
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 128
+        width: 38
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9478a76901e2720800000000000000
+      internalID: 2823212254894705097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_192
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 128
+        width: 54
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b296e51ad8cb5270800000000000000
+      internalID: 8240400782200312499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_193
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 128
+        width: 51
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c71dd43d7c881c0800000000000000
+      internalID: -4501128117199209394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_194
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 128
+        width: 58
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c5426d1c216bd30800000000000000
+      internalID: 4446762305805638664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_195
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 128
+        width: 41
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbf9a0a5e642e810800000000000000
+      internalID: 1793073553703828402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_196
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 128
+        width: 61
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94285df255ce2f90800000000000000
+      internalID: -6976421812521917284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_197
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 128
+        width: 69
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941d5035b547d8540800000000000000
+      internalID: 5011789895916966217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_198
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 128
+        width: 60
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627e1f798d2f5bb00800000000000000
+      internalID: 843847517277906726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_199
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 128
+        width: 58
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d433afeec46a81210800000000000000
+      internalID: 1303974941480858445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_200
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 128
+        width: 29
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfe99eab42d8ca90800000000000000
+      internalID: -7293348374032814146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_201
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 137
+        width: 56
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2c8f17d46608e90800000000000000
+      internalID: -7025502935887330618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_202
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 176
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cbd3c37e2e9dd20800000000000000
+      internalID: 3303921284428971120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_203
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 164
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c0b7205454d7a80800000000000000
+      internalID: -8467535561689985945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_204
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 153
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a8df6affaf3a2d0800000000000000
+      internalID: -3268492928615609808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_205
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 128
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9647fe6668c1aa590800000000000000
+      internalID: -7662280452439313303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_206
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 128
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66d6c7b08ebfd060800000000000000
+      internalID: 6980507407495911023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_207
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 128
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badc6e5033aa1f670800000000000000
+      internalID: 8570818701981830571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_208
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 139
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed21017fc91af8c0800000000000000
+      internalID: -3964828143201473045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_209
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 128
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20a236c179d59c40800000000000000
+      internalID: 5518556001092149291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_210
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 132
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0955cda39b13c710800000000000000
+      internalID: 1712242604420454669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_211
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 128
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a4e226b63a4f9f0800000000000000
+      internalID: -435543582344066507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_212
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 39
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d810140cdac800b0800000000000000
+      internalID: -5762132676910769963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_213
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 20
+        width: 35
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28de1b829fae0b6e0800000000000000
+      internalID: -1823699493234545278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_214
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 20
+        width: 32
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1133d6218ebcc280800000000000000
+      internalID: -9021626491618512611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_215
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 20
+        width: 31
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a75aadeac50a70f0800000000000000
+      internalID: -1118575188319250528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_216
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 20
+        width: 35
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee78d370da09c74d0800000000000000
+      internalID: -3135472167731492882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_217
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 20
+        width: 35
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b17d3a155963420800000000000000
+      internalID: 2609437211981454141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_218
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 20
+        width: 35
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c2439e3b88aec50800000000000000
+      internalID: 6695314102332697624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_219
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 20
+        width: 35
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59c5ba2be78a4a30800000000000000
+      internalID: 4200319046580029790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_220
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 20
+        width: 41
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3413df27d9c1c9120800000000000000
+      internalID: 2421842162183123267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_221
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371f42dc94b74e230800000000000000
+      internalID: 3667191553491005811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_222
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc93d251cf514860800000000000000
+      internalID: 7512390937353624818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_223
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 21
+        width: 9
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a5d80eeab467a40800000000000000
+      internalID: 5365559220522277468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_224
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 21
+        width: 9
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4df078e6f40d3a40800000000000000
+      internalID: 5349437390894202187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_225
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 27
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc3d35c7de18e220800000000000000
+      internalID: 2515294303962348760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_226
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50ffe6272911b930800000000000000
+      internalID: 4157131586987356251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_227
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66231e254e3ec4140800000000000000
+      internalID: 4705386280477864550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_228
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 21
+        width: 9
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fd6abc5af113220800000000000000
+      internalID: 2463785268095147907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_229
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 27
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65712393af624730800000000000000
+      internalID: 3981867768887735660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_230
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 27
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34143bed30f50b740800000000000000
+      internalID: 5165733242819789123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_231
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9913f4466b3aa160800000000000000
+      internalID: 7037502678149306783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_232
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bb35e4726951880800000000000000
+      internalID: -8640835214478427347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_233
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c276e1e43bb8f1c50800000000000000
+      internalID: 6638177977993422636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_234
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccfe62d7e460c010800000000000000
+      internalID: 1207075646966004937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_235
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dcbc65124fa0340800000000000000
+      internalID: 4830941974335573365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_236
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a7fbb65aefb390800000000000000
+      internalID: -7800258371340754927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_237
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66f39f5b736b2a00800000000000000
+      internalID: 732788745913497195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_238
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b590fee72df59f10800000000000000
+      internalID: 2276003534659950005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorp1_239
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 27
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415206f3913bcbe70800000000000000
+      internalID: 9132371065419343124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e7503901e8559bc42bd86900948ae185
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scorp1_0: 5469017808982442291
+      scorp1_1: -8745453805182033677
+      scorp1_10: -5454304115831326980
+      scorp1_100: -8107007058871341172
+      scorp1_101: -5277698811031708540
+      scorp1_102: -8211661958674256998
+      scorp1_103: 3804105492197495706
+      scorp1_104: -7340617317263709153
+      scorp1_105: -6619045962822978905
+      scorp1_106: 8461464050581279384
+      scorp1_107: -2547519781926436164
+      scorp1_108: 8448029267471984906
+      scorp1_109: 3683493713009992133
+      scorp1_11: 6157510483453390623
+      scorp1_110: -747229223599092817
+      scorp1_111: -2660961982048415654
+      scorp1_112: 8883927439932181042
+      scorp1_113: -1540885102608443127
+      scorp1_114: -2125370267461349958
+      scorp1_115: 2048680643983361352
+      scorp1_116: -8477920244929916515
+      scorp1_117: 2971207089211766513
+      scorp1_118: 2574051654293031182
+      scorp1_119: 831866187352355431
+      scorp1_12: 2665310453246488427
+      scorp1_120: -1352345781936044294
+      scorp1_121: 2111039810568134992
+      scorp1_122: 1159784884478436969
+      scorp1_123: 4674910316506196296
+      scorp1_124: 1834095896224012101
+      scorp1_125: 8154882084782284635
+      scorp1_126: 7503846684163906347
+      scorp1_127: -133348636887497060
+      scorp1_128: -6012278463274976570
+      scorp1_129: -5061576257096448172
+      scorp1_13: -2016348332268706367
+      scorp1_130: 3020889065252494920
+      scorp1_131: 4087362948518282349
+      scorp1_132: -7765147484002445778
+      scorp1_133: -3180400523547409158
+      scorp1_134: 6587689431353408434
+      scorp1_135: 5710060590952745642
+      scorp1_136: -704055676040609963
+      scorp1_137: -1183323885125278226
+      scorp1_138: -5566776111591277153
+      scorp1_139: -4244453218693931164
+      scorp1_14: -8591117262475564145
+      scorp1_140: -8259729576444779449
+      scorp1_141: 1056984686548047713
+      scorp1_142: -6011241611522776959
+      scorp1_143: -5793626215860867763
+      scorp1_144: 7876719486755288550
+      scorp1_145: -8614201126860885484
+      scorp1_146: 2767119441107131436
+      scorp1_147: -603930945246932014
+      scorp1_148: -9114035359883843831
+      scorp1_149: 4126954347780786271
+      scorp1_15: -26564896376968854
+      scorp1_150: -2577709050005541926
+      scorp1_151: -625642026858372469
+      scorp1_152: -3869132337045450167
+      scorp1_153: -5449863679606538937
+      scorp1_154: -8952879554381619289
+      scorp1_155: 5670000780688428118
+      scorp1_156: -2399282743973783454
+      scorp1_157: -1707051253096720305
+      scorp1_158: -3913184031233599383
+      scorp1_159: -6180899642975330752
+      scorp1_16: 3859514889669494807
+      scorp1_160: 9165281320812200203
+      scorp1_161: -2681327291231594910
+      scorp1_162: -1235335210170579284
+      scorp1_163: -3747929782764535628
+      scorp1_164: -1477324316846785970
+      scorp1_165: -1326256265131973454
+      scorp1_166: 8349212028051842243
+      scorp1_167: -7038773876368840163
+      scorp1_168: -6871583828796841651
+      scorp1_169: 6295907559422816161
+      scorp1_17: -5917693949936148733
+      scorp1_170: -5918869250654529364
+      scorp1_171: 6563222385882679289
+      scorp1_172: -9183220731409043741
+      scorp1_173: 6546699183665021163
+      scorp1_174: 9202865121195034357
+      scorp1_175: -2655255570980936441
+      scorp1_176: 5480280897860195300
+      scorp1_177: -7935355415717329841
+      scorp1_178: 891849556894808502
+      scorp1_179: 8809753542916119889
+      scorp1_18: 4784404385422974005
+      scorp1_180: 309029843489683845
+      scorp1_181: 2834858135817438114
+      scorp1_182: 7542020371527642379
+      scorp1_183: -4752095509714421315
+      scorp1_184: -8785277812799199120
+      scorp1_185: -3323257616857132514
+      scorp1_186: -3525272194729051669
+      scorp1_187: -3734924437700004434
+      scorp1_188: -2620634286250394611
+      scorp1_189: -3746479984335695209
+      scorp1_19: 4043266750566570531
+      scorp1_190: -93899466241034308
+      scorp1_191: 2823212254894705097
+      scorp1_192: 8240400782200312499
+      scorp1_193: -4501128117199209394
+      scorp1_194: 4446762305805638664
+      scorp1_195: 1793073553703828402
+      scorp1_196: -6976421812521917284
+      scorp1_197: 5011789895916966217
+      scorp1_198: 843847517277906726
+      scorp1_199: 1303974941480858445
+      scorp1_2: -3830783548857388074
+      scorp1_20: -241037081171945667
+      scorp1_200: -7293348374032814146
+      scorp1_201: -7025502935887330618
+      scorp1_202: 3303921284428971120
+      scorp1_203: -8467535561689985945
+      scorp1_204: -3268492928615609808
+      scorp1_205: -7662280452439313303
+      scorp1_206: 6980507407495911023
+      scorp1_207: 8570818701981830571
+      scorp1_208: -3964828143201473045
+      scorp1_209: 5518556001092149291
+      scorp1_21: -5675321335263605770
+      scorp1_210: 1712242604420454669
+      scorp1_211: -435543582344066507
+      scorp1_212: -5762132676910769963
+      scorp1_213: -1823699493234545278
+      scorp1_214: -9021626491618512611
+      scorp1_215: -1118575188319250528
+      scorp1_216: -3135472167731492882
+      scorp1_217: 2609437211981454141
+      scorp1_218: 6695314102332697624
+      scorp1_219: 4200319046580029790
+      scorp1_22: 6374641828397806788
+      scorp1_220: 2421842162183123267
+      scorp1_221: 3667191553491005811
+      scorp1_222: 7512390937353624818
+      scorp1_223: 5365559220522277468
+      scorp1_224: 5349437390894202187
+      scorp1_225: 2515294303962348760
+      scorp1_226: 4157131586987356251
+      scorp1_227: 4705386280477864550
+      scorp1_228: 2463785268095147907
+      scorp1_229: 3981867768887735660
+      scorp1_23: 5510140050828437082
+      scorp1_230: 5165733242819789123
+      scorp1_231: 7037502678149306783
+      scorp1_232: -8640835214478427347
+      scorp1_233: 6638177977993422636
+      scorp1_234: 1207075646966004937
+      scorp1_235: 4830941974335573365
+      scorp1_236: -7800258371340754927
+      scorp1_237: 732788745913497195
+      scorp1_238: 2276003534659950005
+      scorp1_239: 9132371065419343124
+      scorp1_24: 6591023350323878261
+      scorp1_25: -2253757784533589122
+      scorp1_26: 1379823868817130152
+      scorp1_27: -6020252127936282303
+      scorp1_28: 302437924543222698
+      scorp1_29: 6249197179008630079
+      scorp1_3: -7221632608850853952
+      scorp1_30: -3512213735694028788
+      scorp1_31: 1583045492487914605
+      scorp1_32: 1974657840764729482
+      scorp1_33: -517298878489492685
+      scorp1_34: -1732418857981094232
+      scorp1_35: -7136080696665221469
+      scorp1_36: -2810044217361146962
+      scorp1_37: -4641231611193242324
+      scorp1_38: -5632341792386082400
+      scorp1_39: -2591838681358952695
+      scorp1_4: 7995493292196359600
+      scorp1_40: 4383924876016596928
+      scorp1_41: 5769699698007200190
+      scorp1_42: -3921686126292760564
+      scorp1_43: -4425536835762732417
+      scorp1_44: 7519470459668924607
+      scorp1_45: -2001023138490070374
+      scorp1_46: 4703625095689089073
+      scorp1_47: 1660206724080098814
+      scorp1_48: 8446782168358608126
+      scorp1_49: -2567653962578732166
+      scorp1_5: 2104066359173419623
+      scorp1_50: -4161018162430072469
+      scorp1_51: 596527276026794386
+      scorp1_52: -709365421414425672
+      scorp1_53: 2520860477444599120
+      scorp1_54: -1503750310654150713
+      scorp1_55: -8210555060035746284
+      scorp1_56: 8371941718256932404
+      scorp1_57: -1877219768851441073
+      scorp1_58: -3455513280139179270
+      scorp1_59: 729844473166684509
+      scorp1_6: 6185896286970485578
+      scorp1_60: -2817488368980007927
+      scorp1_61: 6157025795166242760
+      scorp1_62: 9146255915436039319
+      scorp1_63: 1649911800704628334
+      scorp1_64: -346167501940001680
+      scorp1_65: 4228011141385675497
+      scorp1_66: 2433866638866532842
+      scorp1_67: -3095577686764490753
+      scorp1_68: -7420156119423049349
+      scorp1_69: -1226871019402608155
+      scorp1_7: 5172985758776066804
+      scorp1_70: -4643007463815095480
+      scorp1_71: 3781730957928396760
+      scorp1_72: -2185796324898246360
+      scorp1_73: -8168432060332786020
+      scorp1_74: 3289033401573588459
+      scorp1_75: 7536275357316508779
+      scorp1_76: -8611416413036208442
+      scorp1_77: 4848196520649670551
+      scorp1_78: 2390184970822473708
+      scorp1_79: -889138805267491619
+      scorp1_8: 3685218707790171334
+      scorp1_80: -5629902432657479241
+      scorp1_81: 4790133510809261206
+      scorp1_82: 5768991712614800761
+      scorp1_83: 5237705093089712341
+      scorp1_84: -1239055688596505945
+      scorp1_85: 2025688266286027960
+      scorp1_86: -2676339403037695367
+      scorp1_87: -6200383075822994655
+      scorp1_88: 1768633887421735569
+      scorp1_89: 3262724413013329751
+      scorp1_9: 6003799791727449504
+      scorp1_90: -2944261277967353427
+      scorp1_91: 8256595927957709964
+      scorp1_92: 3667712161377401659
+      scorp1_93: 4712782812546813552
+      scorp1_94: 3329894559185074794
+      scorp1_95: 2851380961617022522
+      scorp1_96: 9091131438597822595
+      scorp1_97: 7305639749408865811
+      scorp1_98: 5425184125761739074
+      scorp1_99: 7394361639593820425
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
