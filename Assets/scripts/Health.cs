@@ -20,8 +20,8 @@ public class Health : MonoBehaviour
 
     public void Start()
     {
-        Width = HealthBar .rect.width;
-        Height = HealthBar .rect.height;
+        Width = HealthBar.rect.width;
+        Height = HealthBar.rect.height;
     }
 
 }

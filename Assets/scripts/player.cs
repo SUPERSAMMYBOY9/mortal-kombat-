@@ -27,7 +27,7 @@ public class player : MonoBehaviour
     public InputAction Kick;
 
 
-    private void OnEnable()
+    private void OnEnable() //zorgt er voor dat er iets gebeurd bij cde input
     {
         jump.Enable();
         left.Enable();
@@ -35,7 +35,7 @@ public class player : MonoBehaviour
         Punch.Enable();
     }
 
-    private void OnDisable()
+    private void OnDisable() //zorgt er voor dat de input kan stoppen 
     {
         jump.Disable();
         left.Disable();
